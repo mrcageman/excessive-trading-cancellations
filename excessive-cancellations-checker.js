@@ -32,7 +32,7 @@ export class ExcessiveCancellationsChecker {
    * @type {object}
    * @property {number} dateTime - The date of the transaction
    * @property {string} company - The company doing the transaction
-   * @property {string} type - F for purchase, D for cancel
+   * @property {string} type - D for purchase, F for cancel
    * @property {number} amount - Number of items purchased
    */
 
